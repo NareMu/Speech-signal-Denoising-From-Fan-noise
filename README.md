@@ -18,7 +18,7 @@ Primary notebook for processing and evaluating noisy speech signals. It includes
   Executes the full denoising pipeline, visualizes waveforms/spectrograms, and saves output audio.
 
 - **Evaluate Function**  
-  Measures quality using evaluation metrics (e.g., SNR, PESQ, STOI).
+  Measures quality using evaluation metrics (SNR, PESQ,DNSMOS).
 
 ---
 
